@@ -19,6 +19,7 @@ cat reports/summary.txt
 ```
 
 ## Example output
+```
 === 2. Requests per IP ===
       5 192.168.1.10
       4 192.168.1.11
@@ -26,3 +27,4 @@ cat reports/summary.txt
       3 192.168.1.12
       3 10.0.0.5
       2 192.168.1.13
+```
