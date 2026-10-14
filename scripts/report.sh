@@ -1,4 +1,5 @@
 #!/bin/bash
+cd "$(dirname "$0")/.."
 mkdir -p reports
 
 echo "=== 1. Total requests ===" > reports/summary.txt
